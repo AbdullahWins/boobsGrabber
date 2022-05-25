@@ -1,0 +1,33 @@
+li {
+
+    list-style: none;
+    cursor: grab;
+}
+li:active {
+    list-style: none;
+    cursor: grabbing;
+}
+.boobs {
+    border:0px solid red;
+    padding:5em;
+    margin: auto;
+    text-align: center;
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.copyright {
+
+    border:0px solid red;
+    padding-top:15em;
+    padding-left: auto;
+    padding-right: auto;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    color: red;
+}
